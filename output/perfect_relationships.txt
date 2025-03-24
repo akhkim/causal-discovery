@@ -1,0 +1,114 @@
+Perfect relationships detected in the data:
+
+Constant columns:
+- adults_with_hiv_percent_age_15_49 = 0.06
+- age_at_1st_marriage_women = 17.84
+- all_causes_deaths_in_children_1_59_months_per_1000_births = 195.2
+- all_causes_deaths_in_children_1_59_months_total_deaths = 247600.0
+- all_causes_deaths_in_newborn_per_1000_births = 49.76
+- all_causes_deaths_in_newborn_total_deaths = 63120.0
+- all_forms_of_tb_new_cases_per_100000_estimated = 168.0
+- arms_exports_us_inflation_adjusted = 1000000.0
+- average_age_of_dollar_billionaires_years = 0.0
+- bad_teeth_per_child_12_yr = 2.9
+- biomass_stock_in_forest_tons = 81200000.0
+- birth_asphyxia_deaths_in_newborn_per_1000_births = 12.68
+- birth_asphyxia_deaths_in_newborn_total_deaths = 16080.0
+- cars_trucks_and_buses_per_1000_persons = 22.81
+- congenital_deaths_in_newborn_per_1000_births = 3.995
+- congenital_deaths_in_newborn_total_deaths = 5068.0
+- data_method_maternal_mortality = 8.0
+- data_quality_population = 5.0
+- diarrhoeal_deaths_in_children_1_59_months_per_1000_births = 69.55
+- diarrhoeal_deaths_in_children_1_59_months_total_deaths = 88230.0
+- diarrhoeal_deaths_in_newborn_per_1000_births = 1.164
+- diarrhoeal_deaths_in_newborn_total_deaths = 1477.0
+- dollar_billionaires_per_million_people = 0.0
+- females_aged_65plus_unemployment_rate_percent = 5.654
+- female_salaried_workers_percent_of_non_agricultural_female_employment = 25.72451
+- forest_area_sq_km = 13500.0
+- forest_coverage_percent = 2.07
+- forest_land_total_area_ha = 1350000.0
+- forest_products_removal_per_ha_dollar = 193.0
+- forest_products_removal_total_dollar = 167600000.0
+- gnipercapita_constant_2010_us = 544.26006
+- hiv_deaths_in_children_1_59_months_per_1000_births = 0.0134
+- ifpri_underweight_children = 32.8
+- infectious_tb_new_cases_per_100000_estimated = 76.0
+- injury_deaths_in_children_1_59_months_per_1000_births = 9.507
+- literacy_rate_adult_male_percent_of_males_ages_15_and_above = 30.31
+- literacy_rate_youth_female_percent_of_females_ages_15_24 = 11.14
+- literacy_rate_youth_male_percent_of_males_ages_15_24 = 45.8
+- literacy_rate_youth_total_percent_of_people_ages_15_24 = 30.07
+- malaria_deaths_in_children_1_59_months_per_1000_births = 0.03626
+- measles_deaths_in_children_1_59_months_per_1000_births = 1.436
+- meningitis_deaths_in_children_1_59_months_per_1000_births = 5.957
+- ncd_deaths_in_children_1_59_months_per_1000_births = 12.02
+- newly_hiv_infected_number_all_ages = 1100.0
+- newly_hiv_infected_percent_age_15_49 = 0.06
+- other_deaths_in_newborn_per_1000_births = 2.227
+- other_deaths_in_newborn_total_deaths = 2825.0
+- other_infections_deaths_in_children_1_59_months_per_1000_birt = 38.48
+- other_infections_deaths_in_children_1_59_months_total_deaths = 48820.0
+- pertussis_deaths_in_children_1_59_months_per_1000_births = 0.8616
+- pertussis_deaths_in_children_1_59_months_total_deaths = 1093.0
+- planted_forest_area_ha = 0.0
+- pneumonia_deaths_in_children_1_59_months_per_1000_births = 57.32
+- pneumonia_deaths_in_children_1_59_months_total_deaths = 72720.0
+- pneumonia_deaths_in_newborn_per_1000_births = 6.289
+- pneumonia_deaths_in_newborn_total_deaths = 7978.0
+- prematurity_deaths_in_newborn_per_1000_births = 11.0
+- prematurity_deaths_in_newborn_total_deaths = 13960.0
+- primary_forest_area_ha = 0.0
+- privately_owned_forest_land_percent = 0.0
+- ratio_of_young_literate_females_to_males_percent_ages_15_24 = 24.33
+- sepsis_deaths_in_newborn_per_1000_births = 10.23
+- sepsis_deaths_in_newborn_total_deaths = 12980.0
+- stillbirths_per_1000_births = 44.7
+- surface_area_sq_km = 652860.0
+- tb_with_hivplus_deaths_per_100000_estimated = 0.0
+- tb_with_hivplus_existing_cases_per_100000_estimated = 0.0
+- tb_with_hivplus_new_cases_per_100000_estimated = 0.0
+- tb_with_hivplus_number_of_deaths_estimated = 0.0
+- tb_with_hivplus_number_of_existing_cases_estimated = 0.0
+- tb_with_hivplus_number_of_new_cases_estimated = 0.0
+- tetanus_deaths_in_newborn_per_1000_births = 2.176
+- tetanus_deaths_in_newborn_total_deaths = 2761.0
+- total_number_of_dollar_billionaires = 0.0
+- underweight_children = 32.9
+- is--country = 1.0
+- latitude = 33.0
+- longitude = 66.0
+- un_state = 1.0
+
+Perfect relationships between variables:
+- aged_15plus_unemployment_rate_percent ~ aged_15_24_unemployment_rate_percent (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent ~ aged_25_54_unemployment_rate_percent (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent ~ aged_55_64_unemployment_rate_percent (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent ~ aged_65plus_unemployment_rate_percent (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent = 0.0428 × agriculture_workers_percent_of_employment
+- aged_15plus_unemployment_rate_percent ~ family_workers_percent_of_employment (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent ~ females_aged_15plus_unemployment_rate_percent (correlation: -1.0000)
+- aged_15plus_unemployment_rate_percent ~ females_aged_15_24_unemployment_rate_percent (correlation: -1.0000)
+- aged_15plus_unemployment_rate_percent ~ females_aged_25_54_unemployment_rate_percent (correlation: -1.0000)
+- aged_15plus_unemployment_rate_percent ~ females_aged_55_64_unemployment_rate_percent (correlation: -1.0000)
+- aged_15plus_unemployment_rate_percent = 0.0370 × female_family_workers_percent_of_female_employment
+- aged_15plus_unemployment_rate_percent ~ industry_workers_percent_of_employment (correlation: -1.0000)
+- aged_15plus_unemployment_rate_percent ~ males_aged_15plus_unemployment_rate_percent (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent ~ males_aged_15_24_unemployment_rate_percent (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent ~ males_aged_25_54_unemployment_rate_percent (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent ~ males_aged_55_64_unemployment_rate_percent (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent ~ males_aged_65plus_unemployment_rate_percent (correlation: 1.0000)
+- aged_15plus_unemployment_rate_percent = 0.2209 × male_family_workers_percent_of_male_employment
+- aged_15plus_unemployment_rate_percent ~ male_salaried_workers_percent_of_non_agricultural_male_employment (correlation: -1.0000)
+- aged_15plus_unemployment_rate_percent ~ salaried_workers_percent_of_non_agricultural_employment (correlation: -1.0000)
+- aged_15plus_unemployment_rate_percent ~ service_workers_percent_of_employment (correlation: -1.0000)
+- agricultural_water_withdrawal_percent_of_total ~ industrial_water_withdrawal_percent_of_total (correlation: -1.0000)
+- agricultural_water_withdrawal_percent_of_total ~ municipal_water_withdrawal_percent_of_total (correlation: 1.0000)
+- all_forms_of_tb_number_of_new_cases_estimated = 2.2223 × infectious_tb_number_of_new_cases_estimated
+- alternative_gdp_per_capita_ppp_wb = 3.0767 × gdppercapita_us_inflation_adjusted
+- battle_deaths_per_100_000 ~ drownings_per_100000_people (correlation: 1.0000)
+- colonandrectum_cancer_number_of_new_male_cases ~ liver_cancer_number_of_male_deaths (correlation: 0.9999)
+- government_share_of_total_health_spending_percent ~ out_of_pocket_share_of_total_health_spending_percent (correlation: -1.0000)
+- government_share_of_total_health_spending_percent ~ private_share_of_total_health_spending_percent (correlation: -1.0000)
+- internal_renewable_water_cu_meters_per_person = 0.7217 × renewable_water_cu_meters_per_person

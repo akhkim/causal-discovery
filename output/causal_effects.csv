@@ -1,0 +1,3 @@
+treatment,outcome,effect,stderr,p_value
+total_sulfur_emission_kilotonnes,forest_area_sq_km,0.0,,
+total_population_with_projections,total_sulfur_emission_kilotonnes,-0.0012416603628793155,,
